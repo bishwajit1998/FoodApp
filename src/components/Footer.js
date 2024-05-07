@@ -30,7 +30,6 @@ const Footer = () => {
               <span className="text-center pr-2 md:pr-0 md:pb-0 sm:text-xs">
                 Developed by{" "}
                 <a
-                  href="https://www.linkedin.com/in/bishwajit-adhikary-33997414b/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-black hover:underline hover:text-black"
