@@ -1,0 +1,6 @@
+node_modules/
+temp.js
+.parcel-cache
+dist/
+/coverage
+coverage/
