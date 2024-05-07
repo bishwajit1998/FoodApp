@@ -55,7 +55,7 @@ export const HeaderComponent = () => {
     },
   ];
   return (
-    <nav className="flex justify-between  sticky  top-0 h-20 w-full z-10 bg-[#c69f585b] text-black">
+    <nav className="flex justify-between  sticky  top-0 h-20 w-full z-10 bg-[#ff2a00] text-black">
       <div className="w-28 h-20 p-2 flex items-center justify-center">
         <NavLink to="/">
           <img src={logoImage} alt="Logo" />
@@ -71,7 +71,7 @@ export const HeaderComponent = () => {
             className="flex relative"
           >
             <button
-              className="flex items-center bg-[#f29d35]  my-6 mx-7 p-1 rounded-md text-white"
+              className="flex items-center bg-[#ff5a08]  my-6 mx-7 p-1 rounded-md text-white"
               data-testid="cart"
             >
               <span className="mr-3">{cartItems.length}</span>
