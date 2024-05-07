@@ -52,7 +52,7 @@ Follow these steps to set up and run YumBites Food locally on your setup:
 
 1. **Clone the Repository:**
    ```bash
-   git clone -
+   git clone https://github.com/bishwajit1998/FoodApp
    cd YumBites-Food
    ```
 2. **Install Dependencies:**
@@ -75,11 +75,3 @@ Follow these steps to set up and run YumBites Food locally on your setup:
 
 Thank you for exploring YumBites Food! Your feedback is valuable and If you have any suggestions or thoughts, feel free to share them with me.
 And hey, if you enjoyed your experience, why not show us some love by starring the repository,Please don't hesitate to star this GitHub repository!"
-
-<p align="right">
-  <b style="color: green;  ">Visitor count</b>
-  <br>
-
-  <img src="https://profile-counter.glitch.me/YumBites-Food/count.svg" />
-  </a>
-</p>
